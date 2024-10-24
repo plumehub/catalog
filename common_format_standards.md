@@ -1,7 +1,8 @@
-We need to define three standards:
+We need to define two standards:
 - physical case configurations (initial conditions, forcings, thermodynamical constants etc...)
 - 1D profiles output formats
 and to write scripts to post process LES raw outputs to put them in the common format. 
+In the atmospheric community: https://github.com/GdR-DEPHY/DEPHY-SCM/blob/master/DEPHY-SCM_CommonFormat_v1.0.pdf
 
 # Physical case
 ## Geometry
