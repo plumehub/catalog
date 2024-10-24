@@ -2,6 +2,9 @@
 
 Here you will find a list of datasets that can be useful to PLUME participants and where to find them easily, either on PLUME's unit storage, or on other platform.
 
+You can also browse the [opendap](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/PLUME/catalog.html) for the relevant data (same architecture than below)
+
+
 *Click on the arrows to develop the drop down menu with all the datasets*
 
 ## Modelling datasets
