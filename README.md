@@ -1,6 +1,6 @@
 # Catalog of useful data for PLUME project
 
-Here you will find a list of datasets that can be useful to PLUME participants and where to find them easily, either on PLUME's unit storage, either on another platform.
+Here you will find a list of datasets that can be useful to PLUME participants and where to find them easily, either on PLUME's unit storage, or on other platform.
 
 *Click on the arrows to develop the drop down menu with all the datasets*
 
