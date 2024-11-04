@@ -9,8 +9,8 @@ You can also browse the [opendap](https://ige-meom-opendap.univ-grenoble-alpes.f
 | ---------------- | ------| ---- | ---- | ---- | ---- | ---- | ---- |
 | [FCNR1](test_cases/FCNR1.md) | -75 W/m<sup>2</sup> | 0 | 0 | 0 | -2.10<sup>-5</sup> s<sup>-2</sup> | 0 |  0 |
 | [WNR1](test_cases/WNR1.md) | 0 | 0.1 Pa | 0 | 0 | -1.10<sup>-4</sup> s<sup>-2</sup>  | 0 |  0 |
-| [Test case 3](test_cases/test_case3.md) | yes | yes | no | yes | no  | no |  2e5L |
-| [Test case 4](test_cases/test_case4.md) | no | no | no | yes | no  | no |  3e5L |
+| [Test case 3](test_cases/test_case3.md) | 0 | 0 | 0 | 0 | 0  | 0 |  0 |
+| [Test case 4](test_cases/test_case4.md) | 0 | 0 | 0 | 0 | 0  | 0 |  0 |
 
 
 *Click on the arrows to develop the drop down menu with all the datasets*
