@@ -7,12 +7,11 @@ You can also browse the [opendap](https://ige-meom-opendap.univ-grenoble-alpes.f
 
 | Test case | [heat flux (non solar)](test_cases/non_solar_heat_flux.md) | [oceanic shear stress](test_cases/oceanic_shear_stress.md)  | [traditional/non traditional rotation](test_cases/rotation.md)   | [waves](test_cases/waves.md)  | [initial stratification](test_cases/initial_stratification.md)  | [solar flux](test_cases/solar_flux.md)  | [freshwater](test_cases/freshwater.md)  | 
 | ---------------- | ------| ---- | ---- | ---- | ---- | ---- | ---- |
-| [Free convection](test_cases/test_case1.md) | $-75 W/m^2$ | 0 | 0 | 0 | 2e-5 s^-2 | 0 |  0 |
+| [Free convection](test_cases/test_case1.md) | $-75~W/m^2$ | 0 | 0 | 0 | 2e-5 s^-2 | 0 |  0 |
 | [Wind-driven deepening](test_cases/test_case2.md) | 0 | 0.1 Pa | 0 | 0 | 0  | 1e-4 s^-2 |  0 |
 | [Test case 3](test_cases/test_case3.md) | yes | yes | no | yes | no  | no |  2e5L |
 | [Test case 4](test_cases/test_case4.md) | no | no | no | yes | no  | no |  3e5L |
 
-$\sqrt{3x-1}+(1+x)^2$
 
 *Click on the arrows to develop the drop down menu with all the datasets*
 
