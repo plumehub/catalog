@@ -1,1 +1,1 @@
-Free Convection without rotation
+Free convection without rotation
