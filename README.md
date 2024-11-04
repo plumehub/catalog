@@ -12,7 +12,7 @@ You can also browse the [opendap](https://ige-meom-opendap.univ-grenoble-alpes.f
 | [Test case 3](test_cases/test_case3.md) | yes | yes | no | yes | no  | no |  2e5L |
 | [Test case 4](test_cases/test_case4.md) | no | no | no | yes | no  | no |  3e5L |
 
-
+$\sqrt{3x-1}+(1+x)^2$
 
 *Click on the arrows to develop the drop down menu with all the datasets*
 
