@@ -7,10 +7,10 @@ You can also browse the [opendap](https://ige-meom-opendap.univ-grenoble-alpes.f
 
 | Test case | [heat flux (non solar)](test_cases_description/non_solar_heat_flux.md) | [oceanic shear stress](test_cases_description/oceanic_shear_stress.md)  | [traditional/non traditional rotation](test_cases_description/rotation.md)   | [waves](test_cases_description/waves.md)  | [initial stratification](test_cases_description/initial_stratification.md)  | [solar flux](test_cases_description/solar_flux.md)  | [freshwater](test_cases_description/freshwater.md)  | 
 | ---------------- | ------| ---- | ---- | ---- | ---- | ---- | ---- |
-| [FCNR1](test_cases/FCNR1.md) | -75 W/m<sup>2</sup> | 0 | 0 | 0 | -2.10<sup>-5</sup> s<sup>-2</sup> | 0 |  0 |
-| [WNR1](test_cases/WNR1.md) | 0 | 0.1 Pa | 0 | 0 | -1.10<sup>-4</sup> s<sup>-2</sup>  | 0 |  0 |
-| [Test case 3](test_cases/test_case3.md) | 0 | 0 | 0 | 0 | 0  | 0 |  0 |
-| [Test case 4](test_cases/test_case4.md) | 0 | 0 | 0 | 0 | 0  | 0 |  0 |
+| [FCNR1](test_cases_description/FCNR1.md) | -75 W/m<sup>2</sup> | 0 | 0 | 0 | -2.10<sup>-5</sup> s<sup>-2</sup> | 0 |  0 |
+| [WNR1](test_cases_description/WNR1.md) | 0 | 0.1 Pa | 0 | 0 | -1.10<sup>-4</sup> s<sup>-2</sup>  | 0 |  0 |
+| [Test case 3](test_cases_description/test_case3.md) | 0 | 0 | 0 | 0 | 0  | 0 |  0 |
+| [Test case 4](test_cases_description/test_case4.md) | 0 | 0 | 0 | 0 | 0  | 0 |  0 |
 
 
 *Click on the arrows to develop the drop down menu with all the datasets*
