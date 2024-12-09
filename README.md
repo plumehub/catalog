@@ -1,6 +1,6 @@
 # Catalog of experiments produced during PLUME project
 
-Here you will find a list of experiments, both numerical or observational, that have produced by PLUME participants and where to find them, alongside with a precise description.
+Here you will find a list of experiments, both numerical or observational, that have been produced by PLUME participants and where to find them, alongside with a precise description.
 
 | Test case | [heat flux (non solar)](test_cases_description/non_solar_heat_flux.md) | [oceanic shear stress](test_cases_description/oceanic_shear_stress.md)  | [traditional/non traditional rotation](test_cases_description/rotation.md)   | [waves](test_cases_description/waves.md)  | [initial stratification](test_cases_description/initial_stratification.md)  | [solar flux](test_cases_description/solar_flux.md)  | [freshwater](test_cases_description/freshwater.md)  | 
 | ---------------- | ------| ---- | ---- | ---- | ---- | ---- | ---- |
