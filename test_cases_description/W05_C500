@@ -22,9 +22,8 @@ Linear EOS $b= g( \alpha (T - T_0) - \beta (S - S_0))$
 
 ## Initial conditions
 - $T(z) = N_0^2 z / (g \alpha) + T_{\rm sfc} $
-- $T_{\rm sfc}$ = 2.0 °C 
+- $T_{\rm sfc} = 2.0 °C $
 - $N_0^2 = 1.962 e-6 s^{-2}$
-- $T_{sfc} = 2°C$
 - $S(z) = 32.6 psu$
 
 # Outputs 
