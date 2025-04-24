@@ -1,5 +1,5 @@
 # Physical case: WANG1_FR_lat60 (Free Convection and Full Rotation)
-
+Similar to case 1 of Wang (2006), https://doi.org/10.1016/j.dynatmoce.2006.01.001
 ## Geometry
 - latitude=60°N --> f_z: 1.26 e-4 s-1, f_y: 7.29 e-5 s-1
 
