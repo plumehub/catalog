@@ -1,7 +1,7 @@
 # Physical case: WANG1_FR_lat60 (Free Convection and Full Rotation)
 
 ## Geometry
-- latitude=60°N --> f_z: 1.26 e-4 s-1, f_y: 7.29 s-1
+- latitude=60°N --> f_z: 1.26 e-4 s-1, f_y: 7.29 e-5 s-1
 
 ## Thermodynamical Constants
 Linear EOS $b= g( \alpha (T - T_0) - \beta (S - S_0))$
